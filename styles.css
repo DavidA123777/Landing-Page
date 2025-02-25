@@ -92,3 +92,32 @@ img{
   object-fit: cover;
   object-position: center;
 }
+
+.information-section{
+  height: 400px;
+}
+
+
+.info-header{
+  text-align: center;
+  font-size: 36px;
+  color: #1F2937;
+  font-weight: 900;
+}
+
+.cards{
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+  align-items: center;
+  color: #5e5e5e;
+}
+.card{
+  max-width: 150px;
+}
+.card img{
+  height: 120px;
+  width: 120px;
+  text-align: center;
+  margin-left: 10px;
+}
