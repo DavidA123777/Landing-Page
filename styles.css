@@ -121,3 +121,42 @@ img{
   text-align: center;
   margin-left: 10px;
 }
+
+.quote-section{
+  padding: 0px 350px;
+  background-color: #E5E7EB;
+  height: 400px;
+
+}
+
+
+
+
+.quote{
+  font-size: 36px;
+  font-weight: 200;
+  font-style: italic;
+  color: #1F2937;
+  margin: 0;
+  padding-top: 120px;
+
+}
+.author{
+  color: #1F2937;
+  font-weight: 900;
+  text-align: end;
+  font-size: 24px;
+  margin-right: 400px;
+  padding: 0;
+}
+
+footer{
+  display: flex;
+  justify-content: center;
+  background-color: #1F2937;
+  height: 80px;
+}
+footer p {
+  color:  #F9FAF8;
+  padding-top: 20px;
+}
